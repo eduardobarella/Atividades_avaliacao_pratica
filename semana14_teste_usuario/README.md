@@ -65,7 +65,7 @@ Questionário aplicado após as tarefas. Escala de 1 a 5 por afirmação.
 
 **Fórmula SUS:** (soma_impares - 5) × 2,5 + (25 - soma_pares) × 2,5
 
-**Score SUS: 72,5** — classificação: **Bom** (acima de 70)
+**Score SUS: 67,5** — classificação: **Regular** (50–69)
 
 ---
 
