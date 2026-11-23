@@ -12,7 +12,7 @@ Teste de usabilidade realizado com usuário real no site **Mercado Livre**.
 
 ## Objetivo
 
-Avaliar se um usuário consegue localizar e adicionar um produto ao carrinho sem auxílio do avaliador.
+Avaliar a facilidade de uso, eficiência e clareza da interface durante as etapas de busca, comparação e simulação de compra de um produto no Mercado Livre.
 
 ## Perfil do Participante
 
@@ -26,11 +26,15 @@ Avaliar se um usuário consegue localizar e adicionar um produto ao carrinho sem
 
 ## Tarefas Avaliadas
 
-| # | Tarefa | Critério de sucesso |
-|---|---|---|
-| T1 | Buscar "fone de ouvido bluetooth" | Resultados aparecem em menos de 1 minuto |
-| T2 | Filtrar por preço até R$150 | Filtro aplicado corretamente |
-| T3 | Adicionar o 1º resultado ao carrinho | Item aparece no carrinho |
+| # | Tarefa |
+|---|---|
+| T1 | Acessar https://www.mercadolivre.com.br |
+| T2 | Pesquisar "fone de ouvido Bluetooth" |
+| T3 | Aplicar filtro: apenas produtos com entrega Full |
+| T4 | Ordenar pelos melhores avaliados |
+| T5 | Escolher um produto e acessar os detalhes |
+| T6 | Adicionar o item ao carrinho |
+| T7 | Simular o início da compra (sem concluir o pagamento) e retornar à tela inicial |
 
 ---
 
@@ -38,9 +42,13 @@ Avaliar se um usuário consegue localizar e adicionar um produto ao carrinho sem
 
 | Tarefa | Concluída? | Tempo | Observação |
 |---|---|---|---|
-| T1 | Sim | 1min10s | Digitou na barra correta na 2ª tentativa |
-| T2 | Não | — | Não encontrou o filtro de preço na lateral |
-| T3 | Sim | 2min40s | Concluiu após desistir do filtro |
+| T1 | Sim | 0min20s | Acesso direto sem dificuldade |
+| T2 | Sim | 1min10s | Digitou na barra correta na 2ª tentativa |
+| T3 | Não | — | Não encontrou o filtro "entrega Full" na lateral |
+| T4 | Não | — | Não chegou à ordenação por avaliação |
+| T5 | Sim | 2min00s | Clicou em um produto aleatório |
+| T6 | Sim | 2min40s | Concluiu após dificuldades nos filtros |
+| T7 | Não | — | Não chegou à etapa de início de compra |
 
 **Tempo total:** ~3min50s
 
@@ -71,7 +79,7 @@ Questionário aplicado após as tarefas. Escala de 1 a 5 por afirmação.
 
 ## Principal Problema Identificado
 
-O participante **não conseguiu localizar o filtro de preço** na barra lateral. O filtro exige scroll e atenção na lateral da página, o que não é intuitivo para usuários com baixa familiaridade com e-commerce.
+O participante **não encontrou o filtro de entrega Full** nem conseguiu ordenar pelos melhores avaliados. Os filtros ficam na barra lateral e exigem scroll, o que não é intuitivo para usuários com baixa familiaridade com e-commerce.
 
 **Sugestão de melhoria:** destaque visual ou botão de filtro rápido no topo dos resultados.
 

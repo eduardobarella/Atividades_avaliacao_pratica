@@ -16,26 +16,50 @@
 ## Tarefas
 
 ### Tarefa 1
-**Instrução ao participante:** "Por favor, busque por 'fone de ouvido bluetooth' no site."
+**Instrução ao participante:** "Acesse o site https://www.mercadolivre.com.br."
 
-- Critério de sucesso: página de resultados carregada
-- Registrar: tempo, dificuldades, número de tentativas
+- Critério de sucesso: página inicial carregada
+- Registrar: tempo, dificuldades
 
 ---
 
 ### Tarefa 2
-**Instrução ao participante:** "Agora filtre os resultados para mostrar apenas produtos até R$150."
+**Instrução ao participante:** "Pesquise por 'fone de ouvido Bluetooth'."
 
-- Critério de sucesso: filtro de preço aplicado, resultados atualizados
-- Registrar: tempo, onde o participante procurou o filtro
+- Critério de sucesso: página de resultados carregada
+- Registrar: tempo, número de tentativas
 
 ---
 
-### Tarefa 3
-**Instrução ao participante:** "Adicione o primeiro produto da lista ao seu carrinho."
+### Tarefa 3 e 4
+**Instrução ao participante:** "Use os filtros para selecionar apenas produtos com entrega Full e ordene pelos melhores avaliados."
+
+- Critério de sucesso: filtros aplicados, resultados atualizados
+- Registrar: tempo, onde o participante procurou os filtros
+
+---
+
+### Tarefa 5
+**Instrução ao participante:** "Escolha um produto e acesse a página de detalhes."
+
+- Critério de sucesso: página do produto aberta
+- Registrar: tempo, dificuldades
+
+---
+
+### Tarefa 6
+**Instrução ao participante:** "Adicione o item ao carrinho."
 
 - Critério de sucesso: item aparece no carrinho
 - Registrar: tempo, dificuldades encontradas
+
+---
+
+### Tarefa 7
+**Instrução ao participante:** "Simule o início da compra (sem concluir o pagamento) e retorne à tela inicial."
+
+- Critério de sucesso: chegou à tela de início de compra e voltou à home
+- Registrar: tempo, erros cometidos
 
 ---
 
