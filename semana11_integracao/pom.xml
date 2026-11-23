@@ -7,13 +7,13 @@
     <parent>
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-parent</artifactId>
-        <version>3.2.0</version>
+        <version>3.3.13</version>
         <relativePath/>
     </parent>
 
     <groupId>br.edu.exemplo</groupId>
-    <artifactId>semana11-integracao</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <artifactId>exercicios-integracao</artifactId>
+    <version>1.0.0</version>
     <name>Semana 11 — Testes de Integração Spring Boot</name>
 
     <properties>
